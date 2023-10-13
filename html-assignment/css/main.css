@@ -10,3 +10,13 @@ header, footer {
 .site-title {
   color: darkgreen;
 }
+
+/* image box shadow */
+
+ul {
+  list-style: square;
+}
+
+ul li:nth-child(odd) {
+  background: lightseagreen;
+}
