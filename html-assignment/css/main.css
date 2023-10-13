@@ -20,3 +20,7 @@ ul {
 #hobbies li:nth-child(odd) {
   background: lightseagreen;
 }
+
+.navigation {
+  list-style:none;
+}
